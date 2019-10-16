@@ -1,16 +1,12 @@
-# fluttercookie
+# FlutterUI - Cookies
 
-A new Flutter project.
+Code for the screens created with flutter.
 
-## Getting Started
+Design Credit - https://dribbble.com/shots/6196911-Cookies-app-3/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/5Cq92yQa3Mo
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20191017-012435](https://user-images.githubusercontent.com/8137504/66954025-34449980-f07d-11e9-95c4-8c1a0938852c.png)
+![Screenshot_20191017-012501](https://user-images.githubusercontent.com/8137504/66954027-34449980-f07d-11e9-8e28-1467e0091c78.png)
